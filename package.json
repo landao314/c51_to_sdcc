@@ -1,0 +1,11 @@
+{
+	"name": "tool-c51_to_sdcc", 
+	"version": "1.0.250126", 
+	"description": "Keil C51 Head file convert to sdcc Programming software", 
+	"keywords": ["tools", "converter"], 
+	"license": "LGPL-2.1-only AND MIT", 
+	"repository": 
+	{
+		"type": "git", "url": "https://github.com/landao314/c51_to_sdcc.git"
+	}
+}
